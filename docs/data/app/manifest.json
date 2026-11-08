@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "version": "2026-11-07.2",
+ "records_through": "2026-11-07",
+ "published": "2026-11-07T15:13:31Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-missouri": {
+   "path": "detail-missouri-3114e1d93997.json",
+   "sha256": "3114e1d93997da817d302c4268d10ad2a67052dd4b4a6f4bd5aab31dad630d0f",
+   "bytes": 1279129,
+   "rows": 13255
+  },
+  "places": {
+   "path": "places-14c3c14cdee9.json",
+   "sha256": "14c3c14cdee9be9bc7c6ec2caddc17010e5583923015ef0768e1953df357a4e5",
+   "bytes": 2202557,
+   "rows": 13476
+  }
+ },
+ "counts": {
+  "places": 13476,
+  "files": 2,
+  "bytes": 3481686,
+  "restaurants": 12765
+ },
+ "previous": {
+  "version": "2026-11-07.1",
+  "files": {
+   "detail-missouri": "detail-missouri-2ae0a349fc82.json",
+   "places": "places-155686adcf0d.json"
+  }
+ }
+}

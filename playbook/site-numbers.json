@@ -1,0 +1,543 @@
+{
+ "generated": "2026-11-07",
+ "domain": "https://nickstrom5.github.io/missouri-eats",
+ "restaurants": 12765,
+ "places_incl_hidden": 13476,
+ "towns": 629,
+ "counties": 115,
+ "on_an_official_list": 3841,
+ "hand_checked_on_a_guide": 35,
+ "serves_alcohol_state_license": 3799,
+ "guide_kcbbq": 7,
+ "guide_toasted": 6,
+ "guide_stlclassics": 8,
+ "guide_cashew": 12,
+ "oldest": 4,
+ "honors": 15,
+ "michelin": {},
+ "james_beard": 15,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-06",
+ "city_pages": {
+  "St. Louis": {
+   "restaurants": 1618,
+   "listed": 19,
+   "kcbbq": 0,
+   "toasted": 6,
+   "stlclassics": 7,
+   "cashew": 0,
+   "hon": 5,
+   "oldest": 2
+  },
+  "Kansas City": {
+   "restaurants": 1254,
+   "listed": 11,
+   "kcbbq": 7,
+   "toasted": 0,
+   "stlclassics": 0,
+   "cashew": 0,
+   "hon": 4,
+   "oldest": 1
+  },
+  "Springfield": {
+   "restaurants": 666,
+   "listed": 12,
+   "kcbbq": 0,
+   "toasted": 0,
+   "stlclassics": 0,
+   "cashew": 12,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Columbia": 0,
+  "Webster Groves": 2,
+  "Clayton": 1,
+  "Kirkwood": 1,
+  "Brentwood": 1,
+  "Branson": 0,
+  "Independence": 0,
+  "St. Charles": 0,
+  "Joplin": 0,
+  "St. Joseph": 0,
+  "Jefferson City": 0,
+  "Cape Girardeau": 0,
+  "Lee's Summit": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 1041235,
+   "gzip": 224854
+  },
+  "data/detail-adair-county.json": {
+   "raw": 4298,
+   "gzip": 1126
+  },
+  "data/detail-andrew-county.json": {
+   "raw": 1601,
+   "gzip": 540
+  },
+  "data/detail-atchison-county.json": {
+   "raw": 246,
+   "gzip": 179
+  },
+  "data/detail-audrain-county.json": {
+   "raw": 3079,
+   "gzip": 753
+  },
+  "data/detail-barry-county.json": {
+   "raw": 4063,
+   "gzip": 1174
+  },
+  "data/detail-barton-county.json": {
+   "raw": 1236,
+   "gzip": 513
+  },
+  "data/detail-bates-county.json": {
+   "raw": 1720,
+   "gzip": 527
+  },
+  "data/detail-benton-county.json": {
+   "raw": 3414,
+   "gzip": 861
+  },
+  "data/detail-bollinger-county.json": {
+   "raw": 290,
+   "gzip": 191
+  },
+  "data/detail-boone-county.json": {
+   "raw": 37232,
+   "gzip": 7358
+  },
+  "data/detail-buchanan-county.json": {
+   "raw": 16696,
+   "gzip": 3525
+  },
+  "data/detail-butler-county.json": {
+   "raw": 8253,
+   "gzip": 1866
+  },
+  "data/detail-caldwell-county.json": {
+   "raw": 976,
+   "gzip": 391
+  },
+  "data/detail-callaway-county.json": {
+   "raw": 5230,
+   "gzip": 1317
+  },
+  "data/detail-camden-county.json": {
+   "raw": 16017,
+   "gzip": 3089
+  },
+  "data/detail-cape-girardeau-county.json": {
+   "raw": 19022,
+   "gzip": 3801
+  },
+  "data/detail-carroll-county.json": {
+   "raw": 1084,
+   "gzip": 438
+  },
+  "data/detail-carter-county.json": {
+   "raw": 733,
+   "gzip": 368
+  },
+  "data/detail-cass-county.json": {
+   "raw": 15002,
+   "gzip": 3403
+  },
+  "data/detail-cedar-county.json": {
+   "raw": 1875,
+   "gzip": 681
+  },
+  "data/detail-chariton-county.json": {
+   "raw": 1225,
+   "gzip": 368
+  },
+  "data/detail-christian-county.json": {
+   "raw": 11078,
+   "gzip": 2645
+  },
+  "data/detail-city-of-st-louis.json": {
+   "raw": 92425,
+   "gzip": 17639
+  },
+  "data/detail-clark-county.json": {
+   "raw": 600,
+   "gzip": 281
+  },
+  "data/detail-clay-county.json": {
+   "raw": 43267,
+   "gzip": 8922
+  },
+  "data/detail-clinton-county.json": {
+   "raw": 1420,
+   "gzip": 521
+  },
+  "data/detail-cole-county.json": {
+   "raw": 16819,
+   "gzip": 3357
+  },
+  "data/detail-cooper-county.json": {
+   "raw": 2751,
+   "gzip": 855
+  },
+  "data/detail-crawford-county.json": {
+   "raw": 3058,
+   "gzip": 827
+  },
+  "data/detail-dade-county.json": {
+   "raw": 415,
+   "gzip": 229
+  },
+  "data/detail-dallas-county.json": {
+   "raw": 1029,
+   "gzip": 449
+  },
+  "data/detail-daviess-county.json": {
+   "raw": 1034,
+   "gzip": 397
+  },
+  "data/detail-dekalb-county.json": {
+   "raw": 1586,
+   "gzip": 579
+  },
+  "data/detail-dent-county.json": {
+   "raw": 1201,
+   "gzip": 473
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 1032,
+   "gzip": 439
+  },
+  "data/detail-dunklin-county.json": {
+   "raw": 4190,
+   "gzip": 1076
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 17330,
+   "gzip": 3597
+  },
+  "data/detail-gasconade-county.json": {
+   "raw": 4284,
+   "gzip": 1021
+  },
+  "data/detail-gentry-county.json": {
+   "raw": 1251,
+   "gzip": 465
+  },
+  "data/detail-greene-county.json": {
+   "raw": 71885,
+   "gzip": 13189
+  },
+  "data/detail-grundy-county.json": {
+   "raw": 859,
+   "gzip": 382
+  },
+  "data/detail-harrison-county.json": {
+   "raw": 1386,
+   "gzip": 501
+  },
+  "data/detail-henry-county.json": {
+   "raw": 4235,
+   "gzip": 1081
+  },
+  "data/detail-hickory-county.json": {
+   "raw": 1066,
+   "gzip": 362
+  },
+  "data/detail-holt-county.json": {
+   "raw": 1089,
+   "gzip": 405
+  },
+  "data/detail-howard-county.json": {
+   "raw": 1237,
+   "gzip": 413
+  },
+  "data/detail-howell-county.json": {
+   "raw": 5493,
+   "gzip": 1462
+  },
+  "data/detail-iron-county.json": {
+   "raw": 1248,
+   "gzip": 428
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 155343,
+   "gzip": 29378
+  },
+  "data/detail-jasper-county.json": {
+   "raw": 23806,
+   "gzip": 5292
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 25090,
+   "gzip": 5246
+  },
+  "data/detail-johnson-county.json": {
+   "raw": 8401,
+   "gzip": 1945
+  },
+  "data/detail-knox-county.json": {
+   "raw": 185,
+   "gzip": 142
+  },
+  "data/detail-laclede-county.json": {
+   "raw": 4855,
+   "gzip": 1277
+  },
+  "data/detail-lafayette-county.json": {
+   "raw": 4869,
+   "gzip": 1212
+  },
+  "data/detail-lawrence-county.json": {
+   "raw": 3662,
+   "gzip": 1010
+  },
+  "data/detail-lewis-county.json": {
+   "raw": 858,
+   "gzip": 301
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 5056,
+   "gzip": 1284
+  },
+  "data/detail-linn-county.json": {
+   "raw": 2381,
+   "gzip": 604
+  },
+  "data/detail-livingston-county.json": {
+   "raw": 2360,
+   "gzip": 650
+  },
+  "data/detail-macon-county.json": {
+   "raw": 2700,
+   "gzip": 749
+  },
+  "data/detail-madison-county.json": {
+   "raw": 1549,
+   "gzip": 523
+  },
+  "data/detail-maries-county.json": {
+   "raw": 676,
+   "gzip": 231
+  },
+  "data/detail-marion-county.json": {
+   "raw": 6245,
+   "gzip": 1455
+  },
+  "data/detail-mcdonald-county.json": {
+   "raw": 2091,
+   "gzip": 683
+  },
+  "data/detail-mercer-county.json": {
+   "raw": 447,
+   "gzip": 199
+  },
+  "data/detail-miller-county.json": {
+   "raw": 5873,
+   "gzip": 1292
+  },
+  "data/detail-mississippi-county.json": {
+   "raw": 1130,
+   "gzip": 431
+  },
+  "data/detail-moniteau-county.json": {
+   "raw": 1756,
+   "gzip": 583
+  },
+  "data/detail-monroe-county.json": {
+   "raw": 1661,
+   "gzip": 471
+  },
+  "data/detail-montgomery-county.json": {
+   "raw": 1485,
+   "gzip": 498
+  },
+  "data/detail-morgan-county.json": {
+   "raw": 5237,
+   "gzip": 1177
+  },
+  "data/detail-new-madrid-county.json": {
+   "raw": 2975,
+   "gzip": 913
+  },
+  "data/detail-newton-county.json": {
+   "raw": 7794,
+   "gzip": 1956
+  },
+  "data/detail-nodaway-county.json": {
+   "raw": 3874,
+   "gzip": 986
+  },
+  "data/detail-oregon-county.json": {
+   "raw": 519,
+   "gzip": 258
+  },
+  "data/detail-osage-county.json": {
+   "raw": 1533,
+   "gzip": 501
+  },
+  "data/detail-ozark-county.json": {
+   "raw": 907,
+   "gzip": 333
+  },
+  "data/detail-pemiscot-county.json": {
+   "raw": 961,
+   "gzip": 404
+  },
+  "data/detail-perry-county.json": {
+   "raw": 3292,
+   "gzip": 924
+  },
+  "data/detail-pettis-county.json": {
+   "raw": 7462,
+   "gzip": 1747
+  },
+  "data/detail-phelps-county.json": {
+   "raw": 8700,
+   "gzip": 2120
+  },
+  "data/detail-pike-county.json": {
+   "raw": 3333,
+   "gzip": 851
+  },
+  "data/detail-platte-county.json": {
+   "raw": 21916,
+   "gzip": 4752
+  },
+  "data/detail-polk-county.json": {
+   "raw": 2940,
+   "gzip": 850
+  },
+  "data/detail-pulaski-county.json": {
+   "raw": 6931,
+   "gzip": 1874
+  },
+  "data/detail-putnam-county.json": {
+   "raw": 199,
+   "gzip": 155
+  },
+  "data/detail-ralls-county.json": {
+   "raw": 1008,
+   "gzip": 357
+  },
+  "data/detail-randolph-county.json": {
+   "raw": 3520,
+   "gzip": 872
+  },
+  "data/detail-ray-county.json": {
+   "raw": 1631,
+   "gzip": 552
+  },
+  "data/detail-reynolds-county.json": {
+   "raw": 321,
+   "gzip": 183
+  },
+  "data/detail-ripley-county.json": {
+   "raw": 1014,
+   "gzip": 415
+  },
+  "data/detail-saline-county.json": {
+   "raw": 4357,
+   "gzip": 1196
+  },
+  "data/detail-schuyler-county.json": {
+   "raw": 207,
+   "gzip": 165
+  },
+  "data/detail-scotland-county.json": {
+   "raw": 544,
+   "gzip": 288
+  },
+  "data/detail-scott-county.json": {
+   "raw": 4760,
+   "gzip": 1202
+  },
+  "data/detail-shannon-county.json": {
+   "raw": 1210,
+   "gzip": 429
+  },
+  "data/detail-shelby-county.json": {
+   "raw": 915,
+   "gzip": 336
+  },
+  "data/detail-st-charles-county.json": {
+   "raw": 77709,
+   "gzip": 15019
+  },
+  "data/detail-st-clair-county.json": {
+   "raw": 489,
+   "gzip": 276
+  },
+  "data/detail-st-francois-county.json": {
+   "raw": 9497,
+   "gzip": 2272
+  },
+  "data/detail-st-louis-county.json": {
+   "raw": 181189,
+   "gzip": 34520
+  },
+  "data/detail-ste-genevieve-county.json": {
+   "raw": 3590,
+   "gzip": 923
+  },
+  "data/detail-stoddard-county.json": {
+   "raw": 3980,
+   "gzip": 1046
+  },
+  "data/detail-stone-county.json": {
+   "raw": 6999,
+   "gzip": 1724
+  },
+  "data/detail-sullivan-county.json": {
+   "raw": 325,
+   "gzip": 208
+  },
+  "data/detail-taney-county.json": {
+   "raw": 25157,
+   "gzip": 5421
+  },
+  "data/detail-texas-county.json": {
+   "raw": 2335,
+   "gzip": 708
+  },
+  "data/detail-vernon-county.json": {
+   "raw": 2720,
+   "gzip": 809
+  },
+  "data/detail-warren-county.json": {
+   "raw": 4248,
+   "gzip": 1089
+  },
+  "data/detail-washington-county.json": {
+   "raw": 1775,
+   "gzip": 592
+  },
+  "data/detail-wayne-county.json": {
+   "raw": 1300,
+   "gzip": 444
+  },
+  "data/detail-webster-county.json": {
+   "raw": 3335,
+   "gzip": 982
+  },
+  "data/detail-worth-county.json": {
+   "raw": 150,
+   "gzip": 144
+  },
+  "data/detail-wright-county.json": {
+   "raw": 2272,
+   "gzip": 721
+  },
+  "data/ids.json": {
+   "raw": 165973,
+   "gzip": 96401
+  },
+  "data/mo_shapes.json": {
+   "raw": 62862,
+   "gzip": 14746
+  }
+ }
+}

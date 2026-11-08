@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Archives Springfield-Greene's 7-day food-inspection RSS once a day at 07:15 (pipeline/archive_sgf_rss.py). Not installed by
+     default. To install it for your user: cp ops/springfield-rss.plist ~/Library/LaunchAgents/com.missourieats.springfield-rss.plist &&
+     launchctl load ~/Library/LaunchAgents/com.missourieats.springfield-rss.plist   (paths below assume ~/Developer/claudecode/mo-eats) -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.missourieats.springfield-rss</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string><string>-c</string>
+    <string>cd "$HOME/Developer/claudecode/mo-eats/pipeline" &amp;&amp; ../.venv/bin/python archive_sgf_rss.py &gt;&gt; ../data/raw/official/springfield/archive.log 2&gt;&amp;1</string>
+  </array>
+  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>15</integer></dict>
+  <key>RunAtLoad</key><false/>
+</dict>
+</plist>
